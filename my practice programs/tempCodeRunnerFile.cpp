@@ -1,0 +1,2 @@
+ // cout<<evenSum<<" "<<oddSum<<endl;
+    
